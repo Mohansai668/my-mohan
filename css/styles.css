@@ -1,0 +1,90 @@
+#title{
+  background-color: #4C4C6D;
+  color:#fff;
+}
+
+.navbar-brand{
+  font-family: ubunt;
+  padding: 3%;
+  font-weight:bold;
+
+}
+.row{
+  padding:3%;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size:3.5rem;
+  line-height:1.5;
+}
+.container-fluid{
+  padding:1% 1%;
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+.navbar{
+  padding-bottom:2.5rem;
+}
+.nav-item{
+  padding: 1% 20px;
+}
+.nav-link{
+font-family: 'Montserrat', sans-serif;
+}
+.Download-button{
+margin: 5% 3% 5% 1%;
+}
+
+.img-title{
+ width:450px;
+ border-radius: 1000px;
+
+
+}
+#features{
+  padding: 3% 2%;
+}
+.feacture-box{
+  text-align: center;
+}
+h2{
+  text-align: center;
+font-family: 'Montserrat', sans-serif;
+font-size: 50px;
+padding: 10px;
+color: #FFC107;
+}
+h3{
+  text-align: center;
+  font-family: fantasy;
+  color: #A239EA;
+
+}
+p{
+  text-align: center;
+  color:blue;
+}
+.fas{
+  color: red;
+  margin-bottom: 2rem;
+}
+.fas:hover{
+  color: green;
+}
+#testimonials{
+  color: #39A2DB;
+  padding: 5% 15%;
+  background-color: red;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+.image-test{
+  width:300px;
+
+
+}
+.image-1{
+  width: 100px;
+    padding:10px 10px 10px 30px;
+}
